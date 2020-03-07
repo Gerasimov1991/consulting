@@ -30,7 +30,7 @@
 
 @section('content')
 @include("frontend.includes.header")
-
+test
 <main id="main">
     <div class="rev_slider_wrapper">
         <!-- the ID here will be used in the inline JavaScript below to initialize the slider -->
